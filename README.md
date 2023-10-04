@@ -2,4 +2,4 @@
 
 
 
-A collection of python libraries for Text2Voice, Voice2Text and multi lingual translation. 
+A collection of python libraries for Text2Voice, Voice2Text and multilingual translation and language detector. 
